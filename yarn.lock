@@ -1216,10 +1216,9 @@ next@12.1.5:
     "@next/swc-win32-ia32-msvc" "12.1.5"
     "@next/swc-win32-x64-msvc" "12.1.5"
 
-nuka-carousel@^5.0.13:
+"nuka-carousel@git+https://github.com/riceboyler/nuka-carousel.git#add-explicit-children":
   version "5.0.13"
-  resolved "https://registry.yarnpkg.com/nuka-carousel/-/nuka-carousel-5.0.13.tgz#aef7fff3889d0a9dd43f6240e77564b155359e7b"
-  integrity sha512-btay7hFsHQ/0mq1C4msMjwpRuUfI3Cae0ONLvUc/PsUc+zgdVjXgTTegCCXv3nBGhDKBazY6gEwp8b3mbgsUnw==
+  resolved "git+https://github.com/riceboyler/nuka-carousel.git#0ce6285960774b38a5187b2377f10b850a5d0a62"
 
 object-assign@^4.1.1:
   version "4.1.1"
